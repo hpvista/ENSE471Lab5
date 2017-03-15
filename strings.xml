@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="facebook_title">facebook</string>
+    <string name="email_hint">Email or phone number</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="Need_Help">Need Help?</string>
+</resources>
